@@ -2,7 +2,7 @@
 publishDir = "docs"
 
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "http://dwhacademy.com/"
 title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
