@@ -3,7 +3,7 @@ publishDir = "docs"
 
 # Page settings
 baseurl = "http://dwhacademy.com/"
-title = "Elate theme"
+title = "DWH Academy"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -21,7 +21,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "DWH Academy"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
