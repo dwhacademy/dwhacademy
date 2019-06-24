@@ -17,7 +17,7 @@ theme = "hugo-elate-theme"
   email = ""
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
-  googleMapsApiKey = ""
+  googleMapsApiKey = "AIzaSyBZHwnRukWcXNaziiJtt4mXo8L61oAyqNo"
 
   # Navigation
   [params.navigation]
@@ -183,30 +183,28 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Our team represent a core strength of DWH – our professionals have owned their own businesses. We have learned from our own successes and mistakes, which allows us to share our proven patterns to successfully build and maintain DWH in your organization."
 
     [[params.about.item]]
       name = "Lubo"
       position = "Teradata Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "I have a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
       img = "person1.jpg"
       alt = "Person1"
       social = [
         ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/lubomirkamensky/"]
       ]
 
     [[params.about.item]]
       name = "Greg"
       position = "Data Modeler"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      description = "I have hands-on experience in data architecture and data management principles in large scale organizations."
       img = "person2.jpg"
       alt = "Person2"
       social = [
         ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-linkedin", "https://www.linkedin.com/in/grzegorz-%C5%9Bwierniak-53145078/"]
       ]
      
 
@@ -220,7 +218,7 @@ theme = "hugo-elate-theme"
       description = "Finished projects"
       icon = "icon-briefcase"
       from = 0
-      to = 14
+      to = 23
       interval = 50
       speed = 5000
 
@@ -244,7 +242,7 @@ theme = "hugo-elate-theme"
       description = "Happy clients"
       icon = "icon-people"
       from = 0
-      to = 9
+      to = 14
       interval = 50
       speed = 5000
 
