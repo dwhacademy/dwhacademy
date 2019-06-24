@@ -186,8 +186,8 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
+      name = "Lubo"
+      position = "Teradata Developer"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person1.jpg"
       alt = "Person1"
@@ -198,8 +198,8 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
+      name = "Greg"
+      position = "Data Modeler"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person2.jpg"
       alt = "Person2"
@@ -208,18 +208,7 @@ theme = "hugo-elate-theme"
         ["icon-facebook", "#"],
         ["icon-github", "#"]
       ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
+     
 
   # Counters section
   [params.counters]
@@ -287,5 +276,5 @@ theme = "hugo-elate-theme"
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"]
+        ["icon-youtube", "https://youtube.com"]
       ]
