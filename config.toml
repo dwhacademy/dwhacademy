@@ -25,7 +25,7 @@ theme = "hugo-elate-theme"
     home = "Home"
     how_we_build_dwh = "How we build DWH"
     blog = "Blog"
-    clients = "Clients"
+    services = "Clients"
     about = "About"
     contact = "Contact"
 
