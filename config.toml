@@ -25,7 +25,7 @@ theme = "hugo-elate-theme"
     home = "Home"
     how_we_build_dwh = "How we build DWH"
     blog = "Blog"
-    services = "Clients"
+    services = "Projects"
     about = "About"
     contact = "Contact"
 
@@ -154,10 +154,10 @@ theme = "hugo-elate-theme"
 
 
 
-  # Clients section
+  # Projects section
   [params.services]
     enable = true
-    title = "Cliens"
+    title = "Projects"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
