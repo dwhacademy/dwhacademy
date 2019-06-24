@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dwhacademy.com/categories/</loc>
+    <loc>https://dwhacademy.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dwhacademy.com/</loc>
+    <loc>https://dwhacademy.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dwhacademy.com/tags/</loc>
+    <loc>https://dwhacademy.com/tags/</loc>
     <priority>0</priority>
   </url>
   
