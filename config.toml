@@ -13,7 +13,7 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = "Grzegorz Swierniak"
-  description = ""
+  description = "main author"
   email = ""
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
