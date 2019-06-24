@@ -17,7 +17,7 @@ theme = "hugo-elate-theme"
   email = ""
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
-  googleMapsApiKey = "AIzaSyBZHwnRukWcXNaziiJtt4mXo8L61oAyqNo"
+  googleMapsApiKey = ""
 
   # Navigation
   [params.navigation]
