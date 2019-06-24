@@ -12,7 +12,7 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
+  author = "Grzegorz Swierniak"
   description = ""
   email = ""
 
