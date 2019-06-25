@@ -23,7 +23,7 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "DWH Academy"
     home = "Home"
-    work = "DWH good practices"
+    work = "DWH best practices"
     testimonials = "Blog"
     services = "Projects"
     about = "About"
@@ -46,8 +46,9 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "We want to share our experience of how to build successful Data Warehouse"
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "Build your Data Warehouse with us!"
+    subtitle = 'Through our professional careers, we saw many common mistakes that different organizations were making when building data warehouses and we are truly sick of it. The goal of this project is to share our proven patterns and good practices that we developed over the last 15 years.'
+    subtitle2 = 'it is a non-profit project'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -55,25 +56,25 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Agile"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
+    description = "We believe that a successful data warehouse can be built in Agile - we have proven that it is really possible!"
+    url = "https://posts.dwhacademy.com"
+    button = "Read more"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Proven Design"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
+    description = "Stage layer, Core layer, and Business Semantic layer - these are 3 gold pillars that will establish every successful data warehouse."
+    url = "https://posts.dwhacademy.com"
+    button = "Read more"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Cross Functionality"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Why us?"
+    description = "Separation of roles leads to many challenges, therefore, make sure each of your team members can play someone's else role."
+    url = "https://posts.dwhacademy.com"
+    button = "Read more?"
     icon = "icon-rocket"
     img = "img_10.jpg"
 
@@ -84,58 +85,58 @@ theme = "hugo-elate-theme"
     url = "https://vimeo.com/channels/staffpicks/93951774"
 
 
-  # DWH good practices
+  # DWH best practices
   [params.work]
     enable = true
-    title = "DWH good practices"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "DWH best practices"
+    description = "''Using reason without applying it to experience only leads to theoretical illusions. Ideas derived from real world experiences lead to acquisition of knowledge, and the accumulation of time-tested principles leads to wisdom.'' ― Kilroy J. Oldster"
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
       img = "work_1.jpg"
       alt = "Image2"
-      title = "Project 1"
+      title = "Transparency"
       subtitle = "Branding"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
-      title = "Project 2"
+      title = "Business orientation"
       subtitle = "Design"
 
     [[params.work.row]]
       img = "work_3.jpg"
       alt = "Image3"
-      title = "Project 3"
+      title = "Multiple layers"
       subtitle = "Design"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
-      title = "Project 4"
+      title = "Agile was of working"
       subtitle = "Design"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
-      title = "Project 5"
+      title = "Abstraction"
       subtitle = "Design"
 
     [[params.work.row]]
       img = "work_6.jpg"
       alt = "Image6"
-      title = "Project 6"
+      title = "Pilot first"
       subtitle = "Design"
 
   # Blog section
   [params.testimonials]
     enable = true
     title = "Blog"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We love talking about datawarehousing, below you can find articles that we posted on our Blog."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term. &rdquo;"
+      person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">Teradata Developer</span>'
       img = "person1.jpg"
       alt = "Person1"
 
@@ -158,37 +159,37 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Projects"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "“Education without application is just entertainment.” -- Tim Sanders. Here are the white papers that we wrote based on our real projects"
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
+      title = "Nordea"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
+      title = "Merck Sharpe and Dhome"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
       icon = "icon-layers2"
     [[params.services.item]]
-      title = "Photo &amp; Video"
+      title = "Franklin Templeton Investment"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
       icon = "icon-video2"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
+      title = "DHL"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
       icon = "icon-monitor"
 
   # About section
   [params.about]
     enable = true
-    title = "About"
+    title = "About us"
     description = "Our team represent a core strength of DWH – our professionals have owned their own businesses. We have learned from our own successes and mistakes, which allows us to share our proven patterns to successfully build and maintain DWH in your organization."
 
     [[params.about.item]]
-      name = "Lubo"
+      name = "Lubomir Kamensky"
       position = "Teradata Developer"
-      description = "I have a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
+      description = "Lubo has a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
       img = "person1.jpg"
       alt = "Person1"
       social = [
@@ -197,9 +198,9 @@ theme = "hugo-elate-theme"
       ]
 
     [[params.about.item]]
-      name = "Greg"
+      name = "Grzegorz Swierniak"
       position = "Data Modeler"
-      description = "I have hands-on experience in data architecture and data management principles in large scale organizations."
+      description = "His pragmatic approach leads to functional and robust solutions that work. He played multiple roles in DWH projects, so he gets different perspectives and angles in order to clearly define problems and solve them."
       img = "person2.jpg"
       alt = "Person2"
       social = [
@@ -226,7 +227,7 @@ theme = "hugo-elate-theme"
       description = "Lines of code"
       icon = "icon-code"
       from = 0
-      to = 1893409
+      to = 189349
       interval = 50
       speed = 5000
 
@@ -252,13 +253,13 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Feel free to contact us if you want to share your thoughts about our project - DWH Academy."
     
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Pavla Svandy ze Semcic 1073, Prague 150 00 Smichov, <br> Czech Republic"],
         ["icon-envelope", "contact-dwhacademy@gmail.com"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-globe", '<a href="http://dwhacademy/" target="_blank">dwhacademy.com</a>']
       ]
 
     name = "Name"
