@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
   background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);
 }
 #fh5co-home, #fh5co-home .text-wrap {
-  height: 1000px;
+  height: 900px;
 }
 #fh5co-home .text-wrap {
   display: table;
@@ -424,16 +424,23 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px dashed white;
 }
 #fh5co-home .text-inner h1 {
-  font-size: 50px;
+  font-size: 40px;
   color: white;
   margin: 0 0 20px 0;
 }
 #fh5co-home .text-inner h2 {
-  font-size: 28px;
+  font-size: 24px;
   line-height: 38px;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
   margin: 0;
+}
+#fh5co-home .text-inner h3 {
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.8);
+  margin: 10px;
 }
 
 .slant {
@@ -457,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
   position: relative;
   bottom: 0;
-  margin-top: -100px;
+  margin-top: -150px;
   z-index: 10;
   padding-bottom: 7em;
 }
