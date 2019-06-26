@@ -115,7 +115,7 @@ theme = "hugo-elate-theme"
 
     [[params.services.item]]
       title = "Symplicity"
-      description = "There are several traditional approaches helping to keep things simple like Refactoring, YAGNI, Single responsibility, DRY"
+      description = "There are several traditional approaches helping to keep things simple like Refactoring, YAGNI, Single responsibility, DRY. Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away (Antoine de Saint-Exupery)."
       icon = "icon-code"
 
 
