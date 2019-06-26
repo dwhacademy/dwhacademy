@@ -46,9 +46,9 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Why Reinvent the Wheel"
+    title = "Why Reinvent the Wheel: there are DWH patterns that work"
     subtitle = 'Through our professional careers, we saw many common mistakes that different organizations were making when building data warehouses and we are truly sick of seeing how they are repeated again and again. The goal of this project is to share our proven patterns and good practices that we developed over the last 15 years.'
-    subtitle2 = 'it is a non-profit project'
+    subtitle2 = ''
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -132,7 +132,7 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Blog"
-    description = "We love talking about datawarehousing, below you can find articles that we posted on our Blog."
+    description = "We love talking about datawarehousing, below you can find articles that we posted on our <a href='https://posts.dwhacademy.com/' target='_blank'>Blog</a>."
 
     [[params.testimonials.item]]
       quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term. &rdquo;"
