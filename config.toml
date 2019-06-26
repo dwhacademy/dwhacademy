@@ -23,11 +23,12 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "DWH Academy"
     home = "Home"
-    work = "DWH best practices"
-    services = "Projects"
+    services = "Core principles"
+    work = "Projects"
     about = "About"
-    contact = "Contact"
     testimonials = "Blog"
+    contact = "Contact"
+    
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -84,13 +85,45 @@ theme = "hugo-elate-theme"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
 
-
-  # DWH best practices
-  [params.work]
+  # Core principles
+  [params.services]
     enable = true
-    title = "DWH best practices"
+    title = "Core principles"
     description = "''Using reason without applying it to experience only leads to theoretical illusions. Ideas derived from real world experiences lead to acquisition of knowledge, and the accumulation of time-tested principles leads to wisdom.'' ― Kilroy J. Oldster"
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+
+
+    [[params.services.item]]
+      title = "Busines Orientation"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-anchor"
+
+    [[params.services.item]]
+      title = "Separation of Concerns"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-layers2"
+
+      [[params.services.item]]
+      title = "End-to-end Transaparency"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+      icon = "icon-monitor"
+
+    [[params.services.item]]
+      title = "Automation"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-video2"
+
+    [[params.services.item]]
+      title = "Symplicity"
+      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      icon = "icon-code"
+
+
+ # Projects section
+  [params.work]
+    enable = true
+    title = "Projects"
+    description = "“Education without application is just entertainment.” -- Tim Sanders. Here are the white papers that we wrote based on our real projects"
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -152,33 +185,6 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Person3"
     
-
-
-
-  # Projects section
-  [params.services]
-    enable = true
-    title = "Projects"
-    description = "“Education without application is just entertainment.” -- Tim Sanders. Here are the white papers that we wrote based on our real projects"
-
-    [[params.services.item]]
-      title = "Nordea"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
-
-    [[params.services.item]]
-      title = "Merck Sharpe and Dhome"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
-    [[params.services.item]]
-      title = "Franklin Templeton Investment"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
-
-      [[params.services.item]]
-      title = "DHL"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
-      icon = "icon-monitor"
 
   # About section
   [params.about]
