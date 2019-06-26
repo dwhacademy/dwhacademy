@@ -95,7 +95,7 @@ theme = "hugo-elate-theme"
 
     [[params.services.item]]
       title = "Busines Orientation"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      description = "Real success of a data warehouse is defined by number of users who use it on a daily basis, so do not forget to always put their needs in the first place."
       icon = "icon-anchor"
 
     [[params.services.item]]
@@ -126,40 +126,40 @@ theme = "hugo-elate-theme"
     description = "“Education without application is just entertainment.” -- Tim Sanders. Here are the white papers that we wrote based on our real projects"
 
     [[params.work.row]]
-      img = "work_1.jpg"
+      img = "pharma.JPG"
       alt = "Image2"
-      title = "Transparency"
-      subtitle = "Branding"
+      title = "Merck Sharpe and Dhome"
+      subtitle = "Enteprise Data Warehouse Pharma"
 
     [[params.work.row]]
-      img = "work_2.jpg"
+      img = "logistics.JPG"
       alt = "Image2"
-      title = "Business orientation"
-      subtitle = "Design"
+      title = "DHL"
+      subtitle = "Enteprise Data Warehouse Logistics"
 
     [[params.work.row]]
-      img = "work_3.jpg"
+      img = "telco1.JPG"
       alt = "Image3"
-      title = "Multiple layers"
-      subtitle = "Design"
+      title = "Kyivstar GSM"
+      subtitle = "Enteprise Data Warehouse Telco"
 
     [[params.work.row]]
-      img = "work_4.jpg"
+      img = "fin_srvcs.JPG"
       alt = "Image4"
-      title = "Agile was of working"
-      subtitle = "Design"
+      title = "Franklin Templeton Investment"
+      subtitle = "Enterprise Performance Mgmt Financial Svcs"
 
     [[params.work.row]]
-      img = "work_5.jpg"
+      img = "telco2.JPG"
       alt = "Image5"
-      title = "Abstraction"
-      subtitle = "Design"
+      title = "Telefonica"
+      subtitle = "Enterprise Data Warehouse Telco"
 
     [[params.work.row]]
-      img = "work_6.jpg"
+      img = "bank.JPG"
       alt = "Image6"
-      title = "Pilot first"
-      subtitle = "Design"
+      title = "Nordea"
+      subtitle = "Enterprise Data Warehouse Banking"
 
   # Blog section
   [params.testimonials]
@@ -169,7 +169,7 @@ theme = "hugo-elate-theme"
 
     [[params.testimonials.item]]
       quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term. &rdquo;"
-      person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">DWH Concultant</span>'
+      person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">DWH Consultant</span>'
       img = "person1.jpg"
       alt = "Person1"
 
@@ -205,8 +205,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Grzegorz Swierniak"
-      position = "Data Modeler"
-      description = "His pragmatic approach leads to functional and robust solutions that work. He played multiple roles in DWH projects, so he gets different perspectives and angles in order to clearly define problems and solve them."
+      position = "DWH Consultants"
+      description = "8 years of experience in Business Intelligence. His pragmatic approach leads to functional and robust solutions that work. He played multiple roles in DWH projects, so he gets different perspectives and angles in order to clearly define problems and solve them."
       img = "person2.jpg"
       alt = "Person2"
       social = [
