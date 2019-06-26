@@ -195,7 +195,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Lubomir Kamensky"
       position = "DWH Consultant"
-      description = "15 years of experience in building enterprise data warehouses in Logistics, Telco, Banking and Pharma. Lubo has a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
+      description = "15 years of experience in building enterprise data warehouses in Logistics, Telco, Banking, and Pharma. Lubo has a strong passion to observe, connect and make things work. Using the power of abstraction to utilize unexpected patterns."
       img = "person1.jpg"
       alt = "Person1"
       social = [
