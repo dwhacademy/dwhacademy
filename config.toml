@@ -46,8 +46,8 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Build your Data Warehouse with us!"
-    subtitle = 'Through our professional careers, we saw many common mistakes that different organizations were making when building data warehouses and we are truly sick of it. The goal of this project is to share our proven patterns and good practices that we developed over the last 15 years.'
+    title = "Why Reinvent the Wheel"
+    subtitle = 'Through our professional careers, we saw many common mistakes that different organizations were making when building data warehouses and we are truly sick of seeing how they are repeated again and again. The goal of this project is to share our proven patterns and good practices that we developed over the last 15 years.'
     subtitle2 = 'it is a non-profit project'
  
   # Intro section
@@ -65,7 +65,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Proven Design"
     description = "Stage layer, Core layer, and Business Semantic layer - these are 3 gold pillars that will establish every successful data warehouse."
-    url = "https://posts.dwhacademy.com"
+    url = "https://posts.dwhacademy.com/proven-design/"
     button = "Read more"
     icon = "icon-wrench"
     img = "img_8.jpg"
