@@ -24,10 +24,10 @@ theme = "hugo-elate-theme"
     brand = "DWH Academy"
     home = "Home"
     work = "DWH best practices"
-    testimonials = "Blog"
     services = "Projects"
     about = "About"
     contact = "Contact"
+    testimonials = "Blog"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -136,7 +136,7 @@ theme = "hugo-elate-theme"
 
     [[params.testimonials.item]]
       quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term. &rdquo;"
-      person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">Teradata Developer</span>'
+      person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">DWH Concultant</span>'
       img = "person1.jpg"
       alt = "Person1"
 
@@ -188,8 +188,8 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Lubomir Kamensky"
-      position = "Teradata Developer"
-      description = "Lubo has a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
+      position = "DWH Consultant"
+      description = "15 years of experience in building enterprise data warehouses in Logistics, Telco, Banking and Pharma. Lubo has a strong passion to observe, connect and make things work. Using the power of abstraction to utilize the unexpected patterns."
       img = "person1.jpg"
       alt = "Person1"
       social = [
