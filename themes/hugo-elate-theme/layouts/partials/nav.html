@@ -15,6 +15,10 @@
                     {{ end }}
 
                     <li class="active"><a href="#" data-nav-section="home"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
+
+                    {{ if .Site.Params.about.enable }}
+                    <li><a href="#" data-nav-section="about"><span>{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</span></a></li> 
+                    {{ end }}
                     
                     {{ if .Site.Params.services.enable }}
                     <li><a href="#" data-nav-section="services"><span>{{ with .Site.Params.navigation.services }}{{ . | markdownify }}{{ end }}</span></a></li> 
@@ -22,10 +26,6 @@
                     
                     {{ if .Site.Params.work.enable }}
                     <li><a href="#" data-nav-section="work"><span>{{ with .Site.Params.navigation.work }}{{ . | markdownify }}{{ end }}</span></a></li> 
-                    {{ end }}
-
-                    {{ if .Site.Params.about.enable }}
-                    <li><a href="#" data-nav-section="about"><span>{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</span></a></li> 
                     {{ end }}
 
                     {{ if .Site.Params.testimonials.enable }}
