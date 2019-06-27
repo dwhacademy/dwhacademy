@@ -25,8 +25,8 @@ theme = "hugo-elate-theme"
     home = "Home"
     services = "Core principles"
     work = "Projects"
-    about = "About"
     testimonials = "Blog"
+    about = "About"
     contact = "Contact"
     
 
@@ -205,7 +205,7 @@ theme = "hugo-elate-theme"
 
     [[params.about.item]]
       name = "Grzegorz Swierniak"
-      position = "DWH Consultants"
+      position = "DWH Consultant"
       description = "8 years of experience in Business Intelligence. His pragmatic approach leads to functional and robust solutions that work. He played multiple roles in DWH projects, so he gets different perspectives and angles in order to clearly define problems and solve them."
       img = "person2.jpg"
       alt = "Person2"
