@@ -22,12 +22,12 @@
         	{{ partial "services.html" .}}
 		{{ end }}
 
-        {{ if .Site.Params.work.enable }}
-            {{ partial "work.html" .}}
-        {{ end }}
-
         {{ if .Site.Params.testimonials.enable }}
             {{ partial "testimonials.html" .}}
+        {{ end }}
+
+        {{ if .Site.Params.work.enable }}
+            {{ partial "work.html" .}}
         {{ end }}
 
 		{{ if .Site.Params.contact.enable }}
