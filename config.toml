@@ -105,7 +105,7 @@ theme = "hugo-elate-theme"
 
       [[params.services.item]]
       title = "End-to-end Transaparency"
-      description = "Clear and well commented code and configuration files, descriptive documentation of the whole data flow. No blackboxes and magician features. The best code is not the shortest one but the most self descriptive one."      
+      description = "Clear and well-commented code and configuration files, descriptive documentation of the whole data flow. No black boxes and magician features. The best code is not the shortest but the most self-descriptive one."      
       icon = "icon-monitor"
 
     [[params.services.item]]
