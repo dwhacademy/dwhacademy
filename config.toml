@@ -21,7 +21,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "DWH Academy"
+    brand = "<img src='images/dwhacademy.jpg' height='80px'>"
     home = "Home"
     services = "Core principles"
     work = "Projects"
