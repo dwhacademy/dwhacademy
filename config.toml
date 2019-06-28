@@ -76,7 +76,7 @@ theme = "hugo-elate-theme"
     description = "Version control system is an essential tool for DWH projects, tracking changes in the code during development. GIT is a great choice due to the best fit into agile integration."
     url = "https://posts.dwhacademy.com"
     button = "Read more?"
-    icon = "icon-rocket"
+    icon = "icon-code"
     img = "img_10.jpg"
 
   [params.intro.video]
