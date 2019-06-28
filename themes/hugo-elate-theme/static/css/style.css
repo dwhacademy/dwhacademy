@@ -297,11 +297,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
-#fh5co-header .navbar-brand {
-  position:fixed;
-  top: 0;
-  margin-top: 0px;
-}
+
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
   background: #fff;
@@ -351,9 +347,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header .navbar-default .brand-slogan {
-  margin: 28px 0 0 15px;
+  margin: 0px 0 0 15px;
   float: left;
-  letter-spacing: 2px;
+  letter-spacing: 0px;
   color: #adadad;
 }
 #fh5co-header .navbar-default .brand-slogan em {
