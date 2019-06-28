@@ -57,7 +57,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Agile"
-    description = "We believe that a successful data warehouse can be built in Agile - we have proven that it is really possible!"
+    description = "It is easier to build successful data warehouse in Agile with cross-functional team players. Make sure each of your team members can play someone's else role"
     url = "https://posts.dwhacademy.com"
     button = "Read more"
     icon = "icon-bulb"
@@ -65,15 +65,15 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Proven Design"
-    description = "Stage layer, Core layer, and Business Semantic layer - these are 3 gold pillars that will establish every successful data warehouse."
+    description = "Straightforward Stage layer, normalized Integrated layer, and business oriented, dimensional Access layer - these are 3 gold pillars of successful data warehouse."
     url = "https://posts.dwhacademy.com/proven-design/"
     button = "Read more"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Cross Functionality"
-    description = "Separation of roles leads to many challenges, therefore, make sure each of your team members can play someone's else role."
+    title = "Code Under Control"
+    description = "Version control system is an essential tool for DWH projects, tracking changes in the code during development. GIT is the great choice due to the best fit into agile integration."
     url = "https://posts.dwhacademy.com"
     button = "Read more?"
     icon = "icon-rocket"
