@@ -73,7 +73,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Code Under Control"
-    description = "Version control system is an essential tool for DWH projects, tracking changes in the code during development. GIT is the great choice due to the best fit into agile integration."
+    description = "Version control system is an essential tool for DWH projects, tracking changes in the code during development. GIT is a great choice due to the best fit into agile integration."
     url = "https://posts.dwhacademy.com"
     button = "Read more?"
     icon = "icon-rocket"
