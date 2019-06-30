@@ -56,6 +56,14 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
+    title = "Busines Orientation"
+    description = "Real success of a data warehouse is defined by number of users who use it on a daily basis, so do not forget to always put their needs in the first place."
+    url = "https://posts.dwhacademy.com"
+    button = "Read more?"
+    icon = "icon-anchor"
+    img = "img_10.jpg"
+
+  [[params.intro.item]]
     title = "Agile"
     description = "It is easier to build successful data warehouse in Agile with cross-functional team players. Make sure each of your team members can play someone's else role"
     url = "https://posts.dwhacademy.com"
@@ -70,14 +78,6 @@ theme = "hugo-elate-theme"
     button = "Read more"
     icon = "icon-wrench"
     img = "img_8.jpg"
-
-  [[params.intro.item]]
-    title = "Busines Orientation"
-    description = "Real success of a data warehouse is defined by number of users who use it on a daily basis, so do not forget to always put their needs in the first place."
-    url = "https://posts.dwhacademy.com"
-    button = "Read more?"
-    icon = "icon-anchor"
-    img = "img_10.jpg"
 
   [params.intro.video]
     enable = true
