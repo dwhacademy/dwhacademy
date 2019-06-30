@@ -48,7 +48,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Why Reinvent the Wheel"
-    subtitle = 'Through our careers, we saw many mistakes that different organizations were making when building data warehouses and we are truly sick of seeing how they are repeated again and again. The goal of this project is to share our proven patterns and good practices we developed over the last 15 years.'
+    subtitle = 'Through our careers, we saw mistakes that many organizations were making when building data warehouses and we are truly sick of seeing how the same mistakes are repeated again and again. The goal of this project is to share our proven patterns and good practices we developed over the last 15 years.'
     subtitle2 = 'There are DWH patterns which already work'
  
   # Intro section
