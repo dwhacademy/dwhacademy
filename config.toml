@@ -66,7 +66,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Agile"
     description = "It is easier to build successful data warehouse in Agile with cross-functional team players. Make sure each of your team members can play someone's else role"
-    url = "https://posts.dwhacademy.com"
+    url = "https://posts.dwhacademy.com/agile/"
     button = "Read more"
     icon = "icon-bulb"
     img = "img_7.jpg"
@@ -168,18 +168,23 @@ theme = "hugo-elate-theme"
     description = "We love sharing our ideas about datawarehousing, below you can find some of the articles that we posted on our <a href='https://posts.dwhacademy.com/' target='_blank'>Blog</a>."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;When DWH accumulates unorganized data it tends to experience some kind of Turbo Effect in the entropy increase. The main motivation to start the project DWH Academy was to share the patterns and tools which work to build a successful Data warehouse. &rdquo;"
+      quote = "&ldquo;When DWH accumulates unorganized data it tends to experience some kind of Turbo Effect in the entropy increase. The main motivation to start the project DWH Academy was to share the patterns and tools which work to build a successful Data warehouse (...) &rdquo;"
       person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/entropy-of-dwh/" target="_blank">Read more</a> <span class="subtext">DWH Consultant</span>'
       img = "person1.jpg"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term. &rdquo;"
+      quote = "&ldquo;There is an unlimited number of ways how to build a data warehouse. Few of them work and some of the few can even survive in the long term. In this post, we are going to describe the high-level design of the typical successful DWH in the long term (...) &rdquo;"
       person = 'Lubomir Kamensky <a href="https://posts.dwhacademy.com/proven-design/" target="_blank">Read more</a> <span class="subtext">DWH Consultant</span>'
       img = "person1.jpg"
       alt = "Person1"
 
-    
+    [[params.testimonials.item]]
+      quote = "&ldquo;Over the last few years working in Agile became a very hot topic. Lots of big consulting companies (including big 4) realized that teaching and implementing the agile methodology in different companies can be a very lucrative source of income for them (...) &rdquo;"
+      person = 'Grzegorz Swierniak <a href="https://posts.dwhacademy.com/agile/" target="_blank">Read more</a> <span class="subtext">DWH Consultant</span>'
+      img = "person2.jpg"
+      alt = "Person2"
+
 
   # About section
   [params.about]
