@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   # Meta
   author = "Grzegorz Swierniak"
   description = "main author"
-  email = ""
+  email = "contact.dwhacademy@gmail.com"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
@@ -264,7 +264,7 @@ theme = "hugo-elate-theme"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "Pavla Svandy ze Semcic 1073, Prague 150 00 Smichov, <br> Czech Republic"],
-        ["icon-envelope", "contact-dwhacademy@gmail.com"],
+        ["icon-envelope", "contact.dwhacademy@gmail.com"],
         ["icon-globe", '<a href="http://dwhacademy/" target="_blank">dwhacademy.com</a>']
       ]
 
@@ -272,7 +272,7 @@ theme = "hugo-elate-theme"
     email = "Email"
     phone = "Phone"
     message = "Message"
-    button = "Send message"
+    button = "Send Email"
 
   # Footer section
   [params.footer]
