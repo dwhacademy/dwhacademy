@@ -13,7 +13,9 @@
 			<div class="row">
 			{{ range .Site.Params.testimonials.item }}
 				<div class="col-md-4">
+					<blockquote class="author to-animate">
 					<b>{{ .title | markdownify}}</b>
+					</blockquote>
 					<div class="box-testimony">
 						<blockquote class="to-animate-2">
 							<p>{{ .quote | markdownify}}</p>
